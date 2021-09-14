@@ -1,0 +1,11 @@
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp1/c_sharp1/bin/Debug/c_sharp1.exe
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp1/c_sharp1/bin/Debug/c_sharp1.pdb
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp1/c_sharp1/obj/Debug/c_sharp1.csprojAssemblyReference.cache
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp1/c_sharp1/obj/Debug/c_sharp1.csproj.CoreCompileInputs.cache
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp1/c_sharp1/obj/Debug/c_sharp1.exe
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp1/c_sharp1/obj/Debug/c_sharp1.pdb
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp1/c_sharp1/obj/Debug/c_sharp1.exe.config
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp1/c_sharp1/bin/Debug/c_sharp1.exe.config
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp1/c_sharp1/bin/Debug/NAudio.dll
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp1/c_sharp1/bin/Debug/NAudio.xml
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp1/c_sharp1/obj/Debug/c_sharp1.csproj.CopyComplete

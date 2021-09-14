@@ -1,0 +1,6 @@
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp2/c_sharp2/bin/Debug/c_sharp2.exe
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp2/c_sharp2/bin/Debug/c_sharp2.pdb
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp2/c_sharp2/obj/Debug/c_sharp2.csprojAssemblyReference.cache
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp2/c_sharp2/obj/Debug/c_sharp2.csproj.CoreCompileInputs.cache
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp2/c_sharp2/obj/Debug/c_sharp2.exe
+/Users/arsenijkarpov/3семестр/ООП/c_sharp/1.1/c_sharp2/c_sharp2/obj/Debug/c_sharp2.pdb

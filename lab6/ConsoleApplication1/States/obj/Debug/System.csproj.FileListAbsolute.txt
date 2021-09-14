@@ -1,0 +1,6 @@
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/System/bin/Debug/System.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/System/bin/Debug/System.pdb
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/System/obj/Debug/System.csprojAssemblyReference.cache
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/System/obj/Debug/System.csproj.CoreCompileInputs.cache
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/System/obj/Debug/System.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/System/obj/Debug/System.pdb

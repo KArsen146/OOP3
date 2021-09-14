@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ConsoleApplication1" t="IncludeRecursive">
+        <e p="BankSystem" t="Include">
+          <e p="Accounts&amp;Opperations" t="Include">
+            <e p="AccountCommand.cs" t="Include" />
+            <e p="ClientCommand.cs" t="Include" />
+            <e p="CreditComission.cs" t="Include" />
+            <e p="DebitAccount.cs" t="Include" />
+            <e p="DebitPercent.cs" t="Include" />
+            <e p="DepositAccount.cs" t="Include" />
+            <e p="DepositPercent.cs" t="Include" />
+            <e p="IAccount.cs" t="Include" />
+            <e p="ICommand.cs" t="Include" />
+            <e p="LoanAccount.cs" t="Include" />
+            <e p="SimpleCommand.cs" t="Include" />
+            <e p="TopUp.cs" t="Include" />
+            <e p="Transfer.cs" t="Include" />
+            <e p="WithDraw.cs" t="Include" />
+          </e>
+          <e p="Bank.cs" t="Include" />
+          <e p="BankBuilder.cs" t="Include" />
+          <e p="BankManager.cs" t="Include" />
+          <e p="Client.cs" t="Include" />
+          <e p="DateBank.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleApplication1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ConsoleApplication1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_ConsoleApplication1.955543638.00" t="ExcludeRecursive" />
+  </component>
+</project>

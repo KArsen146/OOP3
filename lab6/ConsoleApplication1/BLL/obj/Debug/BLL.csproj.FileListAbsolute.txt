@@ -1,0 +1,11 @@
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/BLL/obj/Debug/BLL.csprojAssemblyReference.cache
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/BLL/bin/Debug/BLL.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/BLL/bin/Debug/BLL.pdb
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/BLL/bin/Debug/DAL.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/BLL/bin/Debug/DAL.pdb
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/BLL/obj/Debug/BLL.csproj.CopyComplete
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/BLL/obj/Debug/BLL.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/BLL/obj/Debug/BLL.pdb
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/BLL/bin/Debug/States.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/BLL/bin/Debug/States.pdb

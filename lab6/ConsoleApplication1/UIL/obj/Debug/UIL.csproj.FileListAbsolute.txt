@@ -1,0 +1,13 @@
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/bin/Debug/UIL.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/bin/Debug/UIL.pdb
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/bin/Debug/BLL.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/bin/Debug/DAL.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/bin/Debug/BLL.pdb
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/bin/Debug/DAL.pdb
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/obj/Debug/UIL.csprojAssemblyReference.cache
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/obj/Debug/UIL.csproj.CoreCompileInputs.cache
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/obj/Debug/UIL.csproj.CopyComplete
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/obj/Debug/UIL.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/obj/Debug/UIL.pdb
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/bin/Debug/States.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/UIL/bin/Debug/States.pdb

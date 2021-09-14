@@ -1,0 +1,9 @@
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/DAL/bin/Debug/DAL.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/DAL/bin/Debug/DAL.pdb
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/DAL/obj/Debug/DAL.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/DAL/obj/Debug/DAL.pdb
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/DAL/bin/Debug/States.dll
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/DAL/bin/Debug/States.pdb
+/Users/arsenijkarpov/3семестр/ООП/lab6/ConsoleApplication1/DAL/obj/Debug/DAL.csproj.CopyComplete
