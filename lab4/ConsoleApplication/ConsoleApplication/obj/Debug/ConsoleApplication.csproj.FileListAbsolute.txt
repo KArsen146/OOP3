@@ -1,6 +1,0 @@
-/Users/arsenijkarpov/3семестр/ООП/lab4/ConsoleApplication/ConsoleApplication/bin/Debug/ConsoleApplication.exe
-/Users/arsenijkarpov/3семестр/ООП/lab4/ConsoleApplication/ConsoleApplication/bin/Debug/ConsoleApplication.pdb
-/Users/arsenijkarpov/3семестр/ООП/lab4/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.csprojAssemblyReference.cache
-/Users/arsenijkarpov/3семестр/ООП/lab4/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.csproj.CoreCompileInputs.cache
-/Users/arsenijkarpov/3семестр/ООП/lab4/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.exe
-/Users/arsenijkarpov/3семестр/ООП/lab4/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.pdb
